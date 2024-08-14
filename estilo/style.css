@@ -31,7 +31,6 @@ section#telefone {
     width: 311px;
     background-image: url(../imagens/frame-iphone.png);
     background-position: center center;
-    background-repeat: no-repeat;
 }
 
 iframe#tela {
@@ -49,7 +48,7 @@ section#redes-sociais {
 
 section#redes-sociais img {
     margin: 10px;
-    width: 40px;
+    width: 5%;
     border-radius: 50%;
     box-shadow: 2px 2px 3px #00000069;
 }
