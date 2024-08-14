@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-    background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
+    background: black url(../imagens/fundo-madeira.jpg) no-repeat top center;
     background-size: cover;
 }
 
@@ -48,7 +48,7 @@ section#redes-sociais {
 
 section#redes-sociais img {
     margin: 10px;
-    width: 5%;
+    width: 45px;
     border-radius: 50%;
     box-shadow: 2px 2px 3px #00000069;
 }
